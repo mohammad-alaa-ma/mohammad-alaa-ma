@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **mohammad-alaa-ma/mohammad-alaa-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,6 @@ Here are some ideas to get you started:
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipeline+Architect;Building+Scalable+Cloud+Systems)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.alaaeldin98@gmail.com)
   [![Location](https://img.shields.io/badge/Location-Giza%2C%20Egypt-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
   
@@ -94,7 +92,8 @@ I'm a **DevOps Engineer** with **2.5 years of hands-on experience** specializing
 
 **Tech Stack:** `Jenkins` `Terraform` `AWS EKS` `Docker` `Kubernetes` `Helm` `IAM` `ECR`
 
-📂 [View Repository](#) | 📄 [Documentation](#)
+**🔗 Links:**
+- 📂 [Infrastructure & Application pipelines Repository](https://github.com/mohammad-alaa-ma/Dual-CI-CD)
 
 ---
 
@@ -115,23 +114,9 @@ I'm a **DevOps Engineer** with **2.5 years of hands-on experience** specializing
 
 **Tech Stack:** `Kubernetes` `ArgoCD` `Jenkins` `Docker` `GCP GKE` `Cloud SQL` `NGINX Ingress` `Helm`
 
-📂 [View Repository](#) | 🎥 [Demo](#)
+**🔗 Links:**
+- 📂 [Three-Tier Application with GitOps Repository](https://github.com/mohammad-alaa-ma/CI-CD-on-K8s)
 
----
-
-### 🧪 Automated E2E Testing Framework
-> **Personal Project** | Enterprise-grade test automation
-
-**What I Built:**
-- Complete UI regression testing suite for nopCommerce e-commerce platform
-- Page Object Model architecture with data-driven testing approach
-- CI integration with Jenkins and Allure reporting
-- Slack notifications for test results
-- Coverage: Contact Us, Registration, Search, Currency switcher, Product Reviews
-
-**Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Jenkins` `Allure Reports`
-
-📂 [View Repository](#) | 📊 [Test Reports](#)
 
 ---
 
@@ -151,7 +136,24 @@ I'm a **DevOps Engineer** with **2.5 years of hands-on experience** specializing
 
 **Tech Stack:** `Bash` `Linux` `Shell Scripting`
 
-📂 [View Repository](#) | 📖 [Documentation](#)
+**🔗 Links:**
+- 📂 [CLI DBMS Repository](https://github.com/mohammad-alaa-ma/Mini-DBMS-BASH)
+
+---
+### ☁️ AWS Infrastructure with Terraform
+> **Personal Workshops** | Cloud infrastructure automation
+
+**What I Built:**
+- Complete AWS infrastructure deployment using Terraform
+- VPC, subnets, security groups, and networking configuration
+- EC2 instances with auto-scaling groups
+- RDS database provisioning
+- S3 buckets and IAM roles/policies management
+
+**Tech Stack:** `Terraform` `AWS VPC` `EC2` `RDS` `S3` `IAM`
+
+**🔗 Links:**
+- 📂 [AWS Infra with Terraform Repository](https://github.com/mohammad-alaa-ma/Terraform-Workshops)
 
 ---
 
@@ -168,10 +170,44 @@ I'm a **DevOps Engineer** with **2.5 years of hands-on experience** specializing
 
 **Tech Stack:** `C++` `OOP` `File I/O` `Data Structures`
 
-📂 [View Repository](#)
+**🔗 Links:**
+- 📂 [Banking System Repository](https://github.com/mohammad-alaa-ma/Banking-System)
+
 
 ---
 
+### 🧪 Automated E2E Testing Framework
+> **Personal Project** | Enterprise-grade test automation
+
+**What I Built:**
+- Complete UI regression testing suite for nopCommerce e-commerce platform
+- Page Object Model architecture with data-driven testing approach
+- CI integration with Jenkins and Allure reporting
+- Slack notifications for test results
+- Coverage: Contact Us, Registration, Search, Currency switcher, Product Reviews
+
+**Tech Stack:** `Java` `Selenium WebDriver` `TestNG` `Maven` `Jenkins` `Allure Reports`
+
+**🔗 Links:**
+- 📂 [Automated Testing Repository](https://github.com/mohammad-alaa-ma/Selenium-Java-TestNg-Framework)
+
+---
+
+### 🔌 Embedded Systems Development
+> **Personal Learning** | Systems-level programming
+
+**What I Learned:**
+- MCU fundamentals and bare-metal programming in C/Embedded C
+- Hardware interfacing protocols: UART, SPI, I2C, Timers, ADC
+- Low-level hardware-software integration
+- Built foundational understanding of how systems work at the register level
+
+**Tech Stack:** `C` `Embedded C` `Microcontrollers` `Hardware Protocols`
+
+**🔗 Links:**
+- 📂 [Embedded-Systems Repository](https://github.com/mohammad-alaa-ma/Embedded-Systems)
+
+---
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -228,8 +264,6 @@ I'm actively seeking **DevOps Engineer** opportunities where I can:
 I'm always interested in discussing DevOps practices, cloud architecture, or potential collaboration opportunities.
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-mohammad.alaaeldin98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.alaaeldin98@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-alaa-ma)
 
@@ -237,14 +271,3 @@ I'm always interested in discussing DevOps practices, cloud architecture, or pot
 
 </div>
 
----
-
-<div align="center">
-  
-  ### 💡 "Infrastructure as Code, Excellence as Standard"
-  
-  ⭐ If you find my projects interesting, consider giving them a star!
-  
-  ![Snake animation](https://github.com/mohammad-alaa-ma/mohammad-alaa-ma/blob/output/github-contribution-grid-snake.svg)
-
-</div>
